@@ -1,1 +1,1 @@
-Projeto de uma loja valendo nota para o Senai 
+Projeto de uma loja valendo nota para o Senai, me dediquei bastante a esse trabalho porem precisse de ajuda do chatgpt pra resolver alguns problemas e enfrentar algumas dificuldades, porem foram em poucas parte 85% foi feito apenas por mim
